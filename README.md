@@ -18,3 +18,7 @@ Once the duck as been generated, browse to that `ducks/DUCKNAME/` folder and sta
 ## Extension Settings
 
 Currently the extension doesn't provide any specific customisable settings for the ducks generation.
+
+## Issues and Feature Suggestions
+
+For any issues you may come across using this extension please raise them on [Github Issues](https://github.com/Bespohk/vscode-ducks-typescript-generator/issues).
