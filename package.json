@@ -2,10 +2,17 @@
   "name": "ducks-typescript-generator",
   "displayName": "Ducks TypeScript Generator",
   "description": "Automatically generate a folder structure and relevant files based on the Ducks pattern, as seen at https://github.com/erikras/ducks-modular-redux.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/Bespohk/vscode-ducks-typescript-generator"
   },
+  "icon": "ts-logo.png",
+  "keywords": [
+    "TypeScript",
+    "Redux",
+    "Ducks",
+    "React"
+  ],
   "publisher": "Bespohk",
   "engines": {
     "vscode": "^1.38.0"
