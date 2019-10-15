@@ -1,6 +1,6 @@
 # README
 
-The ducks-typescript-generator is a convenience extension used to automatically generate the a duck structure for your Redux/Typescript project. You can learn more about the ducks structure [here](https://github.com/erikras/ducks-modular-redux).
+The ducks-typescript-generator is a convenience extension used to automatically generate a duck structure for your Redux/Typescript project. You can learn more about the ducks structure [here](https://github.com/erikras/ducks-modular-redux).
 
 ## Features
 
